@@ -1,0 +1,6 @@
+
+__pycache__/
+.vscode/
+*.grf
+*.grh
+data/
